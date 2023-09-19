@@ -11,6 +11,7 @@ Built a regression model, that predicts the optimum health insurance cost of an 
 
 **Data Analysis**
 An exploratory data analysis has been performed on this dataset. After which several levels of categorical data have been clubbed together. All the attributes that contain null values have been either removed or the null values have been replaced with mean of that column. Then a correlation matrix has been constructed and the attributes that have 0 correlation to the target attribute have been removed from the dataset. 
+
 **Model Training**
-	First the dataset has been divided into train , validate and test data with the ratio of 8:1:1 respectively. Now six regression algorithms namely Multi-Linear Regression, Support Vector Machine, Lasso Regression, Decision Tree Regression, Random Forest Regression and Ridge Regression have been trained on the train data and tested on validation data. The results are tabulated in Table 1 in result analysis section given below. After analyzing the results, Random Forest Regressor algorithm has been chosen as the predictive model for this project. 
+	First the dataset has been divided into train , validate and test data with the ratio of 8:1:1 respectively. Now six regression algorithms namely Multi-Linear Regression, Support Vector Machine, Lasso Regression, Decision Tree Regression, Random Forest Regression and Ridge Regression have been trained on the train data and tested on validation data. 
 
