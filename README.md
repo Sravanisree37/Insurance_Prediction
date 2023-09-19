@@ -5,6 +5,7 @@ Built a regression model, that predicts the optimum health insurance cost of an 
 	In machine learning, regression helps in the mapping of a predictive relationship between labels and data points. Regression algorithms are used in Machine Learning to predict future values. Regression is used to make a wide range of future value predictions using the input data and historical data. Regression helps in defining the relationship between label and data points, which is the target variable (to be predicted) in machine learning.  
 **Problem Definition**
 	The goal of this project is to build a regression model, that predicts the optimum health insurance cost of an individual using health and habit related parameters, with R-squared value (R2) as high as 95%. The data set used is adopted from Kaggle (open-source website).
+ 
 **Predictive Model Selection**
   Dataset
 	The dataset used for this project has been adopted from Kaggle (https://www.kaggle.com/datasets/gdeepakreddy/insurance) website. This dataset contains 23 attributes all are related to different health and physical fitness parameters.
